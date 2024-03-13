@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/5GNhS77/project-manage.jpg",
+    "title": "The Secrets of Agile Project Management",
+    "author_img": "https://i.ibb.co/QJxhgCG/image4.png",
+    "author": "Emma Stone",
+    "posted_date": "2023-12-18",
+    "reading_time": 7,
+    "hashtags": ["projectmanagement", "agile", "leadership"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/hZF9fHb/modern-web.jpg",
+    "title": "Color Theory for Modern Web Design",
+    "author_img": "https://i.ibb.co/q9D0kPH/pple-2.jpg",
+    "author": "Kevin Williams",
+    "posted_date": "2023-12-15",
+    "reading_time": 5,
+    "hashtags": ["webdesign", "ux", "color"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/9YwBsBg/js-Promise.jpg",
+    "title": "Mastering JavaScript Promises",
+    "author_img": "https://i.ibb.co/PhXPqyn/image.png",
+    "author": "Arnab Saha",
+    "posted_date": "2024-2-22",
+    "reading_time": 10,
+    "hashtags": ["javascript", "programming", "webdev"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/5nyk6gt/diet.jpg",
+    "title": "Easy and Delicious Plant-Based Meals",
+    "author_img": "https://i.ibb.co/YLTS3YR/pple-4.jpg",
+    "author": "David Miller",
+    "posted_date": "2023-12-12",
+    "reading_time": 6,
+    "hashtags": ["vegan", "healthy", "recipes"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/KmsV5mb/travel-Guide.jpg",
+    "title": "Hidden Gems: A Guide to Offbeat Travel",
+    "author_img": "https://i.ibb.co/ww6kCSN/image2.png",
+    "author": "Amanda Lee",
+    "posted_date": "2023-12-20",
+    "reading_time": 8,
+    "hashtags": ["travel", "adventure", "explore"]
+  }
+]
